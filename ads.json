@@ -1,7 +1,7 @@
 {
     "status": "success",
     "data": {
-        "adsClickLimit": "2",
+        "adsClickLimit": "4",
         "isAdVisible": "1",
         "isAdVisibleLimit": "1",
         "topChartLength": 3,
